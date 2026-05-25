@@ -113,26 +113,6 @@ commit 8: docs: README completo con instrucciones de despliegue
 
 ---
 
-## 🚀 Instrucciones de despliegue
-
-### GitHub Pages (gratis)
-1. Crea un repositorio llamado `sabores-sv`
-2. Sube los archivos: `index.html`, `styles.css`, `script.js`, `README.md`
-3. Ve a **Settings → Pages → Source: main / root**
-4. Confirma con **Save** — el sitio estará activo en ~2 minutos
-
-### Netlify (alternativa)
-1. Entra a [netlify.com](https://netlify.com) y crea una cuenta
-2. Arrastra la carpeta del proyecto al área de deploy
-3. Obtendrás una URL pública instantáneamente
-
-### Vercel (alternativa)
-1. Instala Vercel CLI: `npm i -g vercel`
-2. En la carpeta del proyecto: `vercel`
-3. Sigue las instrucciones del CLI
-
----
-
 ## 📄 Licencia
 
 Proyecto académico — Desarrollo Frontend · 2026  
