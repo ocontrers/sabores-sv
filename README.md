@@ -18,14 +18,9 @@
 ## 🌐 URL del sitio publicado
 
 ```
-https://tu-usuario.github.io/sabores-sv/
+https://ocontrers.github.io/sabores-sv/
 ```
 
-> **Instrucciones para publicar:**
-> 1. Subir los tres archivos (`index.html`, `styles.css`, `script.js`) al repositorio
-> 2. Ir a **Settings → Pages**
-> 3. En *Source*, seleccionar `main` / `root`
-> 4. El sitio estará disponible en minutos
 
 ---
 
