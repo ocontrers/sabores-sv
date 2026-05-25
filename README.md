@@ -110,15 +110,6 @@ commit 7: fix(responsive): ajustes mobile para todas las secciones y hamburger
 commit 8: docs: README completo con instrucciones de despliegue
 ```
 
----
-
-## 👥 Equipo — Grupo 3
-
-| Nombre | Rol |
-|--------|-----|
-| Integrante 1 | HTML semántico + estructura de secciones |
-| Integrante 2 | CSS (diseño, Grid, Flexbox, responsive) |
-| Integrante 3 | JavaScript (DOM, validación, interactividad) |
 
 ---
 
@@ -144,5 +135,5 @@ commit 8: docs: README completo con instrucciones de despliegue
 
 ## 📄 Licencia
 
-Proyecto académico — Desarrollo Frontend · 2025  
-**Sabores de El Salvador** · Santa Tecla, La Libertad, El Salvador 🇸🇻
+Proyecto académico — Desarrollo Frontend · 2026  
+**Sabores de El Salvador** ·Sonsonate, Sonsonate, El Salvador SV
