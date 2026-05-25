@@ -1,3 +1,4 @@
+/* Sabores SV - Interactividad: DOM, validacion, animaciones v3 */
 /**
  * SABORES DE EL SALVADOR — script.js v3
  * Emojis corregidos, imagenes reales via data attributes, interactividad completa
